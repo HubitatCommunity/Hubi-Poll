@@ -41,12 +41,6 @@ def setAppVersion(){
      state.Type = "Application"
 }
 
-mappings {
-   path("/poll") {
-   action: [ GET: "apiPoll" ]
-   }
-}
-
 def installed() {
    initialize()
 }
