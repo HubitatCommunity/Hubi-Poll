@@ -4,7 +4,7 @@
         "versions": {
                 "Application": {
                         "BLMparent": "1.2",
-                        "Hubi-Poll": "1.0a" 
+                        "HubiPoll": "1.0a" 
                 },
                 "Driver": {
                 },
@@ -12,7 +12,7 @@
                 "UpdateInfo": {
                         "Application": {
                                 "BLMparent": "Updated: 19/08/2018",
-                                "Hubi-Poll": "Updated: 24/08/2018" 
+                                "HubiPoll": "Updated: 24/08/2018" 
                         },
                         "Driver": {
                         }
