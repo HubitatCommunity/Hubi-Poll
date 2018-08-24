@@ -37,7 +37,7 @@
 // App Version   ***** with great thanks and acknowlegment to Cobra (CobraVmax) for his original version checking code ********
 def setAppVersion(){
      state.version = "1.0a"
-     state.InternalName = "Hubi-Poll"
+     state.InternalName = "HubiPoll"
      state.Type = "Application"
 }
 
