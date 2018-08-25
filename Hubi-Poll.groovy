@@ -140,7 +140,7 @@ def display(){
 def updatecheck(){
     
     setAppVersion()
-    def paramsUD = [uri: "http://u-qk.com/versions.json"]
+    def paramsUD = [uri: "https://hubitatcommunity.github.io/Hubi-Poll/versions.json"]
        try {
         httpGet(paramsUD) { respUD ->
  //  log.info " Version Checking - Response Data: ${respUD.data}"
