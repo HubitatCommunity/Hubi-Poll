@@ -1,9 +1,8 @@
 {
-        "Comment": "Last updated: 05/08/2018",
+        "Comment": "Last updated: 24/08/2018",
         "copyright": " &#9400; 2018 tchoward",
         "versions": {
                 "Application": {
-                        "BLMparent": "1.2",
                         "HubiPoll": "1.0a" 
                 },
                 "Driver": {
@@ -11,7 +10,6 @@
 
                 "UpdateInfo": {
                         "Application": {
-                                "BLMparent": "Updated: 19/08/2018",
                                 "HubiPoll": "Updated: 24/08/2018" 
                         },
                         "Driver": {
