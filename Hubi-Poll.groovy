@@ -1,4 +1,8 @@
 /**
+ *  Hubitat Import URL: https://raw.githubusercontent.com/HubitatCommunity/Hubi-Poll/master/Hubi-Poll.groovy
+ */
+
+/**
 
     Hubi-Poll.
     Based off Pollster, this app works behind the scenes and periodically calls 'poll' or
